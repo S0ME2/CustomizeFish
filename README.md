@@ -173,7 +173,7 @@ oh-my-posh init fish --config $HOME/.poshthemes/montys.omp.json | source
 To enhance visuals, change your terminal color scheme.
 
 Example:  
-Choose **Everforest Dark Hard** (option 69 in GNOME Terminal preferences).
+Choose **Everforest Dark Hard**.
 
 ---
 
